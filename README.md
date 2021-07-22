@@ -1,4 +1,4 @@
-![wave](https://capsule-render.vercel.app/api?type=wave&color=FADA5E&&height=200&text=hyenLog()&section=header;)
+![wave](https://capsule-render.vercel.app/api?type=wave&color=FADA5E&&height=200&text=hyenLog();&section=header)
 
 
 <h3 align="center">📚 Tech Stack 📚</h3>
