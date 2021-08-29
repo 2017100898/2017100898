@@ -1,10 +1,13 @@
-<h3 align="center"> Welcome to hyenLog 🐰🥕 </h3>
+<p align="center">
+<img src = "https://capsule-render.vercel.app/api?text=🐰%hyenLog&type=transparent">
+</p>
+
 <p align="center">
 저는 산업공학과 소프트웨어를 공부하고 있는 학생입니다.
 <br>
-기술을 통해 세상에 기여하는 사람이 되고 싶습니다 :)
+기술을 통해 세상에 기여하는 사람이 되고 싶습니다 : ) 🥕
 <br>
-뇌과학과 범죄심리, 머신러닝에 관심있습니다. ✨
+뇌과학과 범죄심리, 머신러닝에 관심 있습니다. ✨
 </p>
 
 <br>
