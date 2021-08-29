@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://capsule-render.vercel.app/api?type=wave&color=FADA5E&&height=200&text=hyenLog();">
+<img src = "https://capsule-render.vercel.app/api?type=soft&animation=fadeIn&color=FADA5E&&height=130&text=hyenLog();">
 </p>
 
 <h3 align="center"> Hi There 🐰🥕 </h3>
