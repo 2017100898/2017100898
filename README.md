@@ -5,7 +5,7 @@
 <p align="center">
 I majored in Industrial engineering and Software.
 <br>
-I wanna contribute to the world through technology! 🤍
+I wanna contribute to the world through technology.✨
 <br>
 Interested in Brain Science, Criminal Psychology and Machine Learning.
 </p>
