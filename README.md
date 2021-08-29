@@ -3,7 +3,7 @@
 </p>
 <h3 align="center"> 🥕 Hi There 🥕 </h3>
 <p align="center">
-I majoring in Industrial engineering and Software.
+I majoring in Industrial Engineering and Software.
 <br>
 I wanna contribute to the world through technology.✨
 <br>
