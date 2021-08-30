@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://capsule-render.vercel.app/api?text=hyenLog();&type=transparent&desc=🐰🥕🤍&descAlignY=88&descAlign=64">
+<img src = "https://capsule-render.vercel.app/api?text=hyenLog();&type=wave&height=200&color=D7D6E6&fontAlignY=40">
 </p>
 
 <p align="center">
@@ -7,7 +7,7 @@
 <br>
 기술을 통해 세상에 기여하는 사람이 되고 싶습니다 : )
 <br>
-뇌과학과 범죄심리, 머신러닝에 관심 있습니다. ✨
+뇌과학, 범죄심리, 그리고 머신러닝에 관심 있습니다. ✨
 </p>
 
 <br>
