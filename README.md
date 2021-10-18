@@ -1,5 +1,5 @@
 <p align="center">
-<img src = "https://capsule-render.vercel.app/api?text=hyenLog();&type=wave&height=230&color=D7D6E6&fontAlignY=38">
+<img src = "https://capsule-render.vercel.app/api?text=hyenLog();&type=wave&height=230&color=F9DD7C&fontAlignY=38">
 </p>
 
 <p align="center">
