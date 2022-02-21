@@ -1,20 +1,16 @@
-<svg fill="none" viewBox="0 0 400 120" width="400" height="120" xmlns="http://www.w3.org/2000/svg">
+<svg style="text-align:center;" fill="none" viewBox="0 0 400 120" width="400" height="120" xmlns="http://www.w3.org/2000/svg">
   <foreignObject width="100%" height="100%">
     <div xmlns="http://www.w3.org/1999/xhtml">
 
       <style>
-        .tags {
-          display: flex;
-          flex-wrap: wrap;
-          height: 100%;
-          width: 100%;
-          margin-bottom: 5px;
-        }
-        .tag {
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          gap: 5px;
+.tags {
+  text-align: center;
+  margin-bottom: -0.5rem;
+}
+
+.pill {
+  display: inline-block;
+gap: 5px;
           padding: 5px 15px;
           border-radius: 10px;
           font-weight: 500;
@@ -25,24 +21,21 @@
           background-color: #e3ffff;
           color: #0ca4a5;
           margin: 0.125em;
-        }
+}
+
       </style>
-
-      <div class="tags">
-        <div class="tag">C++</div>
-        <div class="tag">Python</div>
-        <div class="tag">R</div>
-      </div>
-      <div class="tags">
-        <div class="tag">Dart</div>
-        <div class="tag">Flutter</div>
-        <div class="tag">Java</div>
-      </div>
-      <div class="tags">
-        <div class="tag">CSS3</div>
-        <div class="tag">Docker</div>
-      </div>
-
+<div class="wrapper">
+  <ul class="tags">
+    <li class="pill">C++</li>
+    <li class="pill">Python</li>
+    <li class="pill">R</li>
+    <li class="pill">Dart</li>
+    <li class="pill">Flutter</li>
+    <li class="pill">Java</li>
+    <li class="pill">CSS3</li>
+    <li class="pill">Docker</li>
+  </ul>
+</div>
     </div>
   </foreignObject>
 </svg>
