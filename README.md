@@ -8,9 +8,9 @@
 
 
 ## Educations 
-* M.S. in Department of Artificial Intelligence, Kyung Hee University, 2022.09 ~ Present
-* B.S. in Department of Industrial & Management Systems Engineering, Kyung Hee University, 2017.03 ~ 2022.08
-* B.S. in Department of Software Convergence, Kyung Hee University, 2017.03 ~ 2022.08
+* M.S. in Department of Artificial Intelligence, Kyung Hee University, 2022.09 ~ Present.
+* B.E. in Department of Industrial & Management Systems Engineering, Kyung Hee University, 2017.03 ~ 2022.08.
+* B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 ~ 2022.08.
 
 ## Skills
 * Graph Neural Network
