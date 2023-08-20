@@ -24,8 +24,9 @@
 * Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 ~ 2019.08.
 
 ## Publications
+* **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
 * **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
-* DongGu Kim, **Hye Won Park**, Won Hee Lee, "[Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
+* Dong Gu Kim, **Hye Won Park**, Won Hee Lee, "[Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
 * **Hye Won Park**, Sung Kyu Kim, Jinhyeok Jang, Eun Young Kim, Se Hyun Kim, Won Hee Lee, "[Network Analysis of Psychopathology Symptoms in Patients with Schizophrenia: Focusing on Personal and Social Performance Scale and Subjective Well-being under Neuroleptic Scale.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11036074)", Proceedings of the Korea Software Congress (KSC), 2021.
 
 ## Projects
