@@ -24,7 +24,7 @@
 * Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 ~ 2019.08.
 
 ## Publications
-* Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023  
+* Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023.
 * **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
 * **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
 * Dong Gu Kim, **Hye Won Park**, Won Hee Lee, "[Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
@@ -36,7 +36,7 @@
     * [iOS Appstore](https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%BC%EB%A6%AC-vaily/id1637571120), [Android Playstore](https://play.google.com/store/apps/details?id=com.hyen.vaily)
 * Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis
     * Flutter App Development, Python Algorithm Development
-    * [SW Copyright Registration](https://www.cros.or.kr/psnsys/cmmn/infoPage.do?w2xPath=/ui/twc/sch/swRscOtct/swRscOtctDtl.xml)
+    * SW Copyright Registration
 
 ## Awards
 * 2021 Excellence Award, Korea Software Congress (KSC)
