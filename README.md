@@ -1,5 +1,4 @@
 ## About Me
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F2017100898&count_bg=%2398C0E6&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Github&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Solved.ac](https://mazassumnida.wtf/api/mini/generate_badge?boj=mymelody)](https://solved.ac/mymelody)
 
 * Nice to meet you! I'm Hyewon Park, a developer with a strong desire to contribute to society through technology.
