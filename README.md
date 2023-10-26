@@ -33,9 +33,6 @@
 * Vaily, an Eco-friendly All-in-one Platform
     * Flutter App Development
     * [iOS Appstore](https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%BC%EB%A6%AC-vaily/id1637571120), [Android Playstore](https://play.google.com/store/apps/details?id=com.hyen.vaily)
-* Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis
-    * Flutter App Development, Python Algorithm Development
-    * SW Copyright Registration
 
 ## SW Copyright
 * Interactive Dashboard for Network Analysis and Visualization of Psychopathological Symptom Assessment Score (C-2022-049822)
