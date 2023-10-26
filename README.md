@@ -14,7 +14,7 @@
 ## Skills
 * Graph Neural Network
 * Network Analysis
-* Flutter App Development
+* App Development with Flutter
 * Machine Learning & Deep Learning (especially with Neuroimages)
 
 ## Experiences
@@ -24,10 +24,10 @@
 
 ## Publications
 * Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023.
-* **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
-* **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
-* Dong Gu Kim, **Hye Won Park**, Won Hee Lee, "[Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
-* **Hye Won Park**, Sung Kyu Kim, Jinhyeok Jang, Eun Young Kim, Se Hyun Kim, Won Hee Lee, "[Network Analysis of Psychopathology Symptoms in Patients with Schizophrenia: Focusing on Personal and Social Performance Scale and Subjective Well-being under Neuroleptic Scale.](https://www.dbpia.co.kr/pdf/pdfView.do?nodeId=NODE11036074)", Proceedings of the Korea Software Congress (KSC), 2021.
+* **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "[Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_60)", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
+* **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
+* Dong Gu Kim, **Hye Won Park**, Won Hee Lee, "[Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
+* **Hye Won Park**, Sung Kyu Kim, Jinhyeok Jang, Eun Young Kim, Se Hyun Kim, Won Hee Lee, "[Network Analysis of Psychopathology Symptoms in Patients with Schizophrenia: Focusing on Personal and Social Performance Scale and Subjective Well-being under Neuroleptic Scale.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
 
 ## Projects
 * Vaily, an Eco-friendly All-in-one Platform
@@ -37,6 +37,12 @@
     * Flutter App Development, Python Algorithm Development
     * SW Copyright Registration
 
+## SW Copyright
+* Interactive Dashboard for Network Analysis and Visualization of Psychopathological Symptom Assessment Score (C-2022-049822)
+* Graph Convolution Network based Schizophrenia Diagnostic Program Using a Morphometric Similarity Network (C-2023-043673)
+* Network Analysis and Visualization Tool Program Using Psychopathological Symptom Assesment Score (C-2023-043674)
+* Multimodal Data Analysis based Interactive Dashboard for User Experience Evaluation (C-2023-044704)
+
 ## Awards
 * 2021 Excellence Award, Korea Software Congress (KSC)
 * 2021 Encouragement Award, Korea Software Congress (KSC)
@@ -44,13 +50,13 @@
 * 2020 Start Up the Dream Idea Contest Excellence Award, Kyung Hee University
 
 ## Certifications
-* Engineer Big Data Analysis, 2022.01
-* SQL Developer, 2021.01
-* Advanced Data Analytics Semi-Professional, 2020.01
+* Big Data Analysis Engineer, 2022.12
+* SQL Developer (SQLD), 2021.09
+* Advanced Data Analytics Semi-Professional (ADsP), 2020.08
 
 ## Other Experiences
 * Presentation at the 2023 International Conference on Biological and Medical Sciences held in Chengdu, China
-* 2023 LG Aimers Finalists
+* 2023 LG Aimers Finalists (AI Online Hackathon Top 8%)
 
 
 ## Languages and Tools
