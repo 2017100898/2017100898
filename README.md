@@ -7,9 +7,9 @@
 
 
 ## Educations 
-* M.S. in Department of Artificial Intelligence, Kyung Hee University, 2022.09 ~ Present.
-* B.E. in Department of Industrial & Management Systems Engineering, Kyung Hee University, 2017.03 ~ 2022.08.
-* B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 ~ 2022.08.
+* M.S. in Department of Artificial Intelligence, Kyung Hee University, 2022.09 - Present.
+* B.E. in Department of Industrial & Management Systems Engineering, Kyung Hee University, 2017.03 - 2022.08.
+* B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 - 2022.08.
 
 ## Skills
 * Graph Neural Network
@@ -18,16 +18,16 @@
 * Machine Learning & Deep Learning (especially with Neuroimages)
 
 ## Experiences
-* M.S. Student at [AIMS (Artificial Intelligence in Medicine and Science) Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, 2022.09 ~ Present.
-* Undergraduate Researcher at AIMS (Artificial Intelligence & Medical Science) Lab, Kyung Hee University, 2021.11 ~ 2022.08.
-* Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 ~ 2019.08.
+* M.S. Student at [AIMS (Artificial Intelligence in Medicine and Science) Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, 2022.09 - Present.
+* Undergraduate Researcher at AIMS (Artificial Intelligence & Medical Science) Lab, Kyung Hee University, 2021.11 - 2022.08.
+* Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 - 2019.08.
 
 ## Publications
 * Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023.
 * **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "[Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_60)", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
 * **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
 * Dong Gu Kim, **Hye Won Park**, Won Hee Lee, "[Development of Interactive Dashboard for Graph-based Psychopathological Symptom Network Analysis.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
-* **Hye Won Park**, Sung Kyu Kim, Jinhyeok Jang, Eun Young Kim, Se Hyun Kim, Won Hee Lee, "[Network Analysis of Psychopathology Symptoms in Patients with Schizophrenia: Focusing on Personal and Social Performance Scale and Subjective Well-being under Neuroleptic Scale.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036035)", Proceedings of the Korea Software Congress (KSC), 2021.
+* **Hye Won Park**, Sung Kyu Kim, Jinhyeok Jang, Eun Young Kim, Se Hyun Kim, Won Hee Lee, "[Network Analysis of Psychopathology Symptoms in Patients with Schizophrenia: Focusing on Personal and Social Performance Scale and Subjective Well-being under Neuroleptic Scale.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036074)", Proceedings of the Korea Software Congress (KSC), 2021.
 
 ## Projects
 * Vaily, an Eco-friendly All-in-one Platform
@@ -47,9 +47,9 @@
 * 2020 Start Up the Dream Idea Contest Excellence Award, Kyung Hee University
 
 ## Certifications
-* Big Data Analysis Engineer, 2022.12
-* SQL Developer (SQLD), 2021.09
-* Advanced Data Analytics Semi-Professional (ADsP), 2020.08
+* Big Data Analysis Engineer, 2022.12.
+* SQL Developer (SQLD), 2021.09.
+* Advanced Data Analytics Semi-Professional (ADsP), 2020.08.
 
 ## Other Experiences
 * Presentation at the 2023 International Conference on Biological and Medical Sciences held in Chengdu, China
