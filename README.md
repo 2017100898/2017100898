@@ -24,6 +24,7 @@
 
 ## Publications
 * **Hye Won Park**, Won Hee Lee, "Multimodal Brain Connectivity Based Graph Transformer Networks and Its Application to Sex Classification", Proceedings of the Korea Software Congress (KSC), 2023.
+* Junhyeok Lee, Hyejeong Jo, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Tae-Seong Kim, Won Hee Lee, "A Multimodal Interactive Dashboard for User Experience Evaluation", International Conference on Computer Science and its Applications (CSA).
 * Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "[Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation](https://ieeexplore.ieee.org/document/10326366)", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023.
 * **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "[Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_60)", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
 * **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
