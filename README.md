@@ -24,7 +24,7 @@
 
 ## Publications
 * **Hye Won Park**, Won Hee Lee, "Multimodal Brain Connectivity Based Graph Transformer Networks and Its Application to Sex Classification", Proceedings of the Korea Software Congress (KSC), 2023.
-* Junhyeok Lee, Hyejeong Jo, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Tae-Seong Kim, Won Hee Lee, "A Multimodal Interactive Dashboard for User Experience Evaluation", International Conference on Computer Science and its Applications (CSA).
+* Junhyeok Lee, Hyejeong Jo, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Tae-Seong Kim, Won Hee Lee, "A Multimodal Interactive Dashboard for User Experience Evaluation", International Conference on Computer Science and its Applications (CSA), 2023.
 * Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "[Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation](https://ieeexplore.ieee.org/document/10326366)", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023.
 * **Hye Won Park**, Seo Yeong Kim, Won Hee Lee, "[Graph Convolutional Network with Morphometric Similarity Networks for Schizophrenia Classification](https://link.springer.com/chapter/10.1007/978-3-031-43907-0_60)", Medical Image Computing and Computer Assisted Intervention (MICCAI), 2023.
 * **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Convolutional Network with Morphometric Similarity Networks.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11224234)", Proceedings of the Korea Software Congress (KSC), 2022.
@@ -32,16 +32,20 @@
 * **Hye Won Park**, Sung Kyu Kim, Jinhyeok Jang, Eun Young Kim, Se Hyun Kim, Won Hee Lee, "[Network Analysis of Psychopathology Symptoms in Patients with Schizophrenia: Focusing on Personal and Social Performance Scale and Subjective Well-being under Neuroleptic Scale.](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11036074)", Proceedings of the Korea Software Congress (KSC), 2021.
 
 ## Projects
-* Vaily, an Eco-friendly All-in-one Platform
-    * Flutter App Development
-    * [iOS Appstore](https://apps.apple.com/kr/app/%EB%B2%A0%EC%9D%BC%EB%A6%AC-vaily/id1637571120), [Android Playstore](https://play.google.com/store/apps/details?id=com.hyen.vaily)
+* Vaily, an Eco-friendly All-in-one Platform (2021.04 - 2023.04.)
+    * Flutter App Developer
+    * Developed product crawling algorithm to collect eco-friendly products.
+    * Implemented app features: User authentication, eco-product presentation, review community, search, and liking.
+    * Launched on iOS and Android.
 
 ## SW Copyrights
-* Interactive Dashboard for Network Analysis and Visualization of Psychopathological Symptom Assessment Score (C-2022-049822)
-* Graph Convolution Network based Schizophrenia Diagnostic Program Using a Morphometric Similarity Network (C-2023-043673)
-* Network Analysis and Visualization Tool Program Using Psychopathological Symptom Assesment Score (C-2023-043674)
-* Multimodal Data Analysis based Interactive Dashboard for User Experience Evaluation (C-2023-044704)
 * Multimodal User Experience Evaluation Analysis Tool (C-2023-053985)
+* Multimodal Data Analysis based Interactive Dashboard for User Experience Evaluation (C-2023-044704)
+* Network Analysis and Visualization Tool Program Using Psychopathological Symptom Assesment Score (C-2023-043674)
+* Graph Convolution Network based Schizophrenia Diagnostic Program Using a Morphometric Similarity Network (C-2023-043673)
+* Interactive Dashboard for Network Analysis and Visualization of Psychopathological Symptom Assessment Score (C-2022-049822)
+
+
 
 ## Awards
 * 2021 Excellence Award, Korea Software Congress (KSC)
