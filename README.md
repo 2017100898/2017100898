@@ -23,6 +23,7 @@
 * Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 - 2019.08.
 
 ## Publications
+* **Hye Won Park**, Won Hee Lee, "Multimodal connectivity-based graph transformer networks and its application to sex classification (abstract)", Organization for Human Brain Mapping Annual Conference, 2024. 
 * **Hye Won Park**, Won Hee Lee, "Multimodal Brain Connectivity Based Graph Transformer Networks and Its Application to Sex Classification", Proceedings of the Korea Software Congress (KSC), 2023.
 * Junhyeok Lee, Hyejeong Jo, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Tae-Seong Kim, Won Hee Lee, "A Multimodal Interactive Dashboard for User Experience Evaluation", International Conference on Computer Science and its Applications (CSA), 2023.
 * Hyejeong Jo, Junhyeok Lee, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Won Hee Lee, "[Developing an Integrated Dashboard to Analyze Multimodal Data for User Experience Evaluation](https://ieeexplore.ieee.org/document/10326366)", International Conference on Consumer Electronics Asia (ICCE-Asia), 2023.
