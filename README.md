@@ -60,6 +60,7 @@
 * Advanced Data Analytics Semi-Professional (ADsP), 2020.08.
 
 ## Other Experiences
+* Presentation at the 2024 AI SEOUL conference held in Seoul, Korea
 * Presentation at the 2023 International Conference on Biological and Medical Sciences held in Chengdu, China
 * 2023 LG Aimers Finalists (AI Online Hackathon Top 8%)
 
