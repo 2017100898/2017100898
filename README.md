@@ -1,10 +1,9 @@
 ## About Me
 [![Solved.ac](https://mazassumnida.wtf/api/mini/generate_badge?boj=mymelody)](https://solved.ac/mymelody)
 
-* Nice to meet you! I'm Hyewon Park, a developer with a strong desire to contribute to society through technology.
+* Nice to meet you! I'm Hye Won Park, a developer with a strong desire to contribute to society through technology :))
 * I'm currently studying artificial intelligence at Kyung Hee University.
-* I have a interest in network analysis, Graph Neural Networks (GNN), and app development.
-
+* I have a interest in network analysis, graph neural networks (GNN), and app development.
 
 ## Educations 
 * M.S. in Department of Artificial Intelligence, Kyung Hee University, 2022.09 - Present.
@@ -23,6 +22,8 @@
 * Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 - 2019.08.
 
 ## Publications
+* Chae Woo Lee, **Hye Won Park**, Won Hee Lee, "Schizophrenia Classification Using Graph Attention Network With Morphometric Similarity Networks", Proceedings of the Korea Software Congress (KSC), 2024.
+* Eunju Ji, **Hye Won Park**, Won Hee Lee, "Development of a Multimodal Emotion Recognition Model Using Voice and Text Data", Proceedings of the Korea Software Congress (KSC), 2024.
 * **Hye Won Park**, Won Hee Lee, "Multimodal connectivity-based graph transformer networks and its application to sex classification (abstract)", Organization for Human Brain Mapping Annual Conference, 2024. 
 * **Hye Won Park**, Won Hee Lee, "[Multimodal Brain Connectivity Based Graph Transformer Networks and Its Application to Sex Classification](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11705257)", Proceedings of the Korea Software Congress (KSC), 2023.
 * Junhyeok Lee, Hyejeong Jo, **Hye Won Park**, Minjae Kim, Yeonwoo Kim, Tae-Seong Kim, Won Hee Lee, "A Multimodal Interactive Dashboard for User Experience Evaluation", International Conference on Computer Science and its Applications (CSA), 2023.
