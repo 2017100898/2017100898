@@ -1,17 +1,18 @@
 ## Research Interests
 * Graph Neural Network
 * Network Analysis
-* Machine Learning & Deep Learning (especially with neuroimages)
+* Machine Learning & Deep Learning
+
+## Careers
+* Samsung Electronics, 2024.10 - present.
+* M.S. Student at [AIMS (Artificial Intelligence in Medicine and Science) Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, 2022.09 - 2024.08.
+* Undergraduate Researcher at AIMS (Artificial Intelligence in Medicine and Science) Lab, Kyung Hee University, 2021.11 - 2022.08.
+* Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 - 2019.08.
 
 ## Educations 
 * M.S. in Department of Artificial Intelligence, Kyung Hee University, 2022.09 - 2024.08.
 * B.E. in Department of Industrial & Management Systems Engineering, Kyung Hee University, 2017.03 - 2022.08.
 * B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 - 2022.08.
-
-## Experiences
-* M.S. Student at [AIMS (Artificial Intelligence in Medicine and Science) Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, 2022.09 - 2024.08.
-* Undergraduate Researcher at AIMS (Artificial Intelligence in Medicine and Science) Lab, Kyung Hee University, 2021.11 - 2022.08.
-* Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 - 2019.08.
 
 ## Publications
 * Chae Woo Lee, **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Attention Network With Morphometric Similarity Networks](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862418)", Proceedings of the Korea Computer Congress (KCC), 2024. ${\textsf{\color{brown}Encouragement Award}}$
