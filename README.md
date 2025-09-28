@@ -15,7 +15,7 @@
 * B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 - 2022.08.
 
 ## Publications
-* Junhyeok Lee, Seo Yeong Kim, Hye Won Park, Juhyuk Han, Sung Woo Joo, Jungsun Lee, Won Hee Lee, "[A multimodal ensemble stacking model improves brain age prediction and reveals associations with schizophrenia symptoms] (https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1600479/full)", Frontiers in Psychiatry, 2025.
+* Junhyeok Lee, Seo Yeong Kim, Hye Won Park, Juhyuk Han, Sung Woo Joo, Jungsun Lee, Won Hee Lee, "[A multimodal ensemble stacking model improves brain age prediction and reveals associations with schizophrenia symptoms](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1600479/full)", Frontiers in Psychiatry, 2025.
 * Chae Woo Lee, **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Attention Network With Morphometric Similarity Networks](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862418)", Proceedings of the Korea Computer Congress (KCC), 2024. ${\textsf{\color{brown}Encouragement Award}}$
 * Eunju Ji, **Hye Won Park**, Won Hee Lee, "[Development of a Multimodal Emotion Recognition Model Using Voice and Text Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862455)", Proceedings of the Korea Computer Congress (KCC), 2024.
 * **Hye Won Park**, Won Hee Lee, "[Multimodal connectivity-based graph transformer networks and its application to sex classification (abstract)](https://ww6.aievolution.com/hbm2401/Abstracts/viewAbs?abs=3067)", Organization for Human Brain Mapping Annual Conference (OHBM), 2024. 
