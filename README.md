@@ -1,6 +1,4 @@
 ## Research Interests
-* Graph Neural Network
-* Network Analysis
 * Machine Learning & Deep Learning
 
 ## Careers
@@ -15,6 +13,7 @@
 * B.E. in Department of Software Convergence, Kyung Hee University, 2017.03 - 2022.08.
 
 ## Publications
+* **Hye Won Park**, Won Hee Lee. "[Morphometric similarity network-based graph convolutional networks for schizophrenia classification](https://www.nature.com/articles/s41598-025-19894-8)", Scientific Reports, 2025.
 * Junhyeok Lee, Seo Yeong Kim, **Hye Won Park**, Juhyuk Han, Sung Woo Joo, Jungsun Lee, Won Hee Lee, "[A multimodal ensemble stacking model improves brain age prediction and reveals associations with schizophrenia symptoms](https://www.frontiersin.org/journals/psychiatry/articles/10.3389/fpsyt.2025.1600479/full)", Frontiers in Psychiatry, 2025.
 * Chae Woo Lee, **Hye Won Park**, Won Hee Lee, "[Schizophrenia Classification Using Graph Attention Network With Morphometric Similarity Networks](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862418)", Proceedings of the Korea Computer Congress (KCC), 2024. ${\textsf{\color{brown}Encouragement Award}}$
 * Eunju Ji, **Hye Won Park**, Won Hee Lee, "[Development of a Multimodal Emotion Recognition Model Using Voice and Text Data](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11862455)", Proceedings of the Korea Computer Congress (KCC), 2024.
