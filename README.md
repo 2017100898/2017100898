@@ -2,7 +2,7 @@
 * Machine Learning & Deep Learning
 
 ## Careers
-* Samsung Electronics, 2024.10 - present.
+* Software Engineer, Samsung Electronics, 2024.10 - present.
 * M.S. Student at [AIMS (Artificial Intelligence in Medicine and Science) Lab](https://sites.google.com/view/khu-aims/home/), Kyung Hee University, 2022.09 - 2024.08.
 * Undergraduate Researcher at AIMS (Artificial Intelligence in Medicine and Science) Lab, Kyung Hee University, 2021.11 - 2022.08.
 * Undergraduate Researcher at HCD (Human-Centered Design) Lab, Kyung Hee University, 2019.03 - 2019.08.
